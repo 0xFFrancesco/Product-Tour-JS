@@ -1,7 +1,7 @@
 # 🤘 Product Tour JS
 
 ### What is it?
-A JavaScript library for easily manage user onboarding, UI discovering, product presentation, show your new awesome feature and more. [try it](http://francescorizzi.info/projects/product-tour-js)
+A JavaScript library for easily manage user onboarding, UI discovering, product presentation, show your new awesome feature and more. <a target='_blank' href='http://francescorizzi.info/projects/product-tour-js'>try it</a>
 
 ### How to install:
 <ul>
@@ -10,7 +10,7 @@ A JavaScript library for easily manage user onboarding, UI discovering, product 
     <li>add the <code>lib.js</code> and
         <code>lib.css</code> files to your page
     </li>
-    <li>create your custom configuration object (<a href='http://francescorizzi.info/projects/product-tour-js#docs-options'>more on that</a>)</li>
+    <li>create your custom configuration object (<a target='_blank' href='http://francescorizzi.info/projects/product-tour-js#docs-options'>more on that</a>)</li>
     <li>when you want to start it call <code>ProductTourJS.init(your-options-obj);</code> and
         <code>ProductTourJS.start();</code></li>
 </ul>
@@ -20,7 +20,9 @@ A JavaScript library for easily manage user onboarding, UI discovering, product 
 
 ### Discover more:
 
--  [demo](http://francescorizzi.info/projects/product-tour-js)
--  [features](http://francescorizzi.info/projects/product-tour-js#features)
--  [docs](http://francescorizzi.info/projects/product-tour-js#docs)
--  [author](http://francescorizzi.info/projects/product-tour-js#about)
+<ul>
+    <li><a target='_blank' href='http://francescorizzi.info/projects/product-tour-js'>demo</a></li>
+    <li><a target='_blank' href='http://francescorizzi.info/projects/product-tour-js#features'>features</a></li>
+    <li><a target='_blank' href='http://francescorizzi.info/projects/product-tour-js#docs'>docs</a></li>
+    <li><a target='_blank' href='http://francescorizzi.info/projects/product-tour-js#about'>author</a></li>
+</ul>
