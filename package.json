@@ -1,0 +1,19 @@
+{
+  "name": "product-tour-js",
+  "version": "1.0.0",
+  "description": "A JavaScript library for easily manage user onboarding, UI discovering, product presentation, show your new awesome feature and more.",
+  "main": "lib.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Francesco-Rizzi/Product-Tour-JS.git"
+  },
+  "author": "Francesco Rizzi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Francesco-Rizzi/Product-Tour-JS/issues"
+  },
+  "homepage": "http://francescorizzi.info/projects/product-tour-js"
+}
